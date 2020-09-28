@@ -1,1 +1,3 @@
-# info_memo
+# Latex
+\usepackage[shortlabels]{enumitem}
+\begin{enumerate}[(a)] % (a), (b), (c), ...
